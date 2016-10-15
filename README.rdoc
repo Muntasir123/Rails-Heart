@@ -1,2 +1,11 @@
 This is Rails Lovers! An app made for those who LOVE Rails! Create an account and blog about the latest developments in Rails and the latest things on
 Ruby. Add a Tag, that will help other users to see your post and colloborate with you, and potentially contact you for group projects.
+
+*Several Features I have added recently*
+
+- Regex in the back end to detect proper email types
+- Full Module Back Form for Signing In, Administrative Rights, Logging out
+
+Some potential updates
+- Use perhaps twilio API to connect SMS for forgotten passwords
+- Put this on the play store and make it more responsive.
